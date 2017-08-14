@@ -1,0 +1,94 @@
+{
+
+
+    "internetbundle": [
+        {
+            "id": 1,
+            "bundleType": "Daily",
+            "volume": "2 GB",
+            "validation": "1 Week",
+            "price": "120 Afg",
+            "subMethod": "23 To 453"
+        },{
+            "id": 2,
+            "bundleType": "Daily",
+            "volume": "2 GB",
+            "validation": "1 Week",
+            "price": "120 Afg",
+            "subMethod": "23 To 453"
+        },{
+            "id": 3,
+            "bundleType": "Daily",
+            "volume": "2 GB",
+            "validation": "1 Week",
+            "price": "120 Afg",
+            "subMethod": "23 To 453"
+        },{
+            "id": 4,
+            "bundleType": "Daily",
+            "volume": "2 GB",
+            "validation": "1 Week",
+            "price": "120 Afg",
+            "subMethod": "23 To 453"
+        },{
+            "id": 5,
+            "bundleType": "Daily",
+            "volume": "2 GB",
+            "validation": "1 Week",
+            "price": "120 Afg",
+            "subMethod": "23 To 453"
+        },{
+            "id": 6,
+            "bundleType": "Daily",
+            "volume": "2 GB",
+            "validation": "1 Week",
+            "price": "120 Afg",
+            "subMethod": "23 To 453"
+        },{
+            "id": 7,
+            "bundleType": "Daily",
+            "volume": "2 GB",
+            "validation": "1 Week",
+            "price": "120 Afg",
+            "subMethod": "23 To 453"
+        },{
+            "id": 8,
+            "bundleType": "Daily",
+            "volume": "2 GB",
+            "validation": "1 Week",
+            "price": "120 Afg",
+            "subMethod": "23 To 453"
+        },{
+            "id": 9,
+            "bundleType": "9Daily",
+            "volume": "9 GB",
+            "validation": "1 Week",
+            "price": "920 Afg",
+            "subMethod": "93 To 453"
+        },{
+            "id": 10,
+            "bundleType": "Daily",
+            "volume": "10 GB",
+            "validation": "1 Week",
+            "price": "1020 Afg",
+            "subMethod": "93 To 453"
+        },{
+            "id": 11,
+            "bundleType": "Daily",
+            "volume": "11 GB",
+            "validation": "1 Week",
+            "price": "1120 Afg",
+            "subMethod": "93 To 453"
+        },{
+            "id": 12,
+            "bundleType": "Daily",
+            "volume": "12 GB",
+            "validation": "1 Week",
+            "price": "120 Afg",
+            "subMethod": "93 To 453"
+        }
+
+    ]
+}
+
+
